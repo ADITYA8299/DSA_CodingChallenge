@@ -56,5 +56,3 @@ Columns include:
 
 ---
 
-## 📁 Repository Structure
-
